@@ -2,16 +2,16 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.webera.tech.kite"
-        versionCode = "20190"
-        version   = "3.3.1">
+        id        = "com.medvarsity.kite.webera"
+        versionCode = "1"
+        version   = "1.1">
     <name>KITE</name>
 
     <description>
        KITE official app
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
+    <author href="http://medvarsity.com" email="tech@medvarsity.com">
         KITE Mobile team
     </author>
 
